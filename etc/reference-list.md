@@ -1,7 +1,7 @@
 Data:
 
 9/27/22
-- CA electricity consumption data, 1990-2020: https://data.ca.gov/dataset/california-electricity-consumption-database
+- CA electricity consumption data, 1990-2020: http://www.ecdms.energy.ca.gov/elecbyutil.aspx
 - CA electricity real-time electricity consumption data, forecasting: http://www.caiso.com/Pages/default.aspx
 - Real-time world electricity consumption/CO2 emissions: https://app.electricitymaps.com/zone/US-CAL-CISO
 
