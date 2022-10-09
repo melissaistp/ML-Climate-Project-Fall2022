@@ -1,4 +1,4 @@
-Resources (data):
+Data:
 
 9/27/22
 - CA electricity consumption data, 1990-2020: https://data.ca.gov/dataset/california-electricity-consumption-database
@@ -7,7 +7,7 @@ Resources (data):
 
 
 
-Resources (context):
+Context:
 
 9/27/22
 - Class reading, ML for sustainable energy systems: https://www.proditus.com/teaching/readings2022/07_Donti1.pdf
@@ -15,3 +15,8 @@ Resources (context):
 - TransWest Express economic benefits to CA: https://www.nrel.gov/docs/fy14osti/61192.pdf
 - Govenor Newsom statement re:ZEVs (zero-emission electric vehicles) + targets: https://www.gov.ca.gov/2022/08/25/california-enacts-world-leading-plan-to-achieve-100-percent-zero-emission-vehicles-by-2035-cut-pollution/
 - "EVs will challenge state power grids": https://www.pewtrusts.org/en/research-and-analysis/blogs/stateline/2020/01/09/electric-cars-will-challenge-state-power-grids
+
+Other:
+
+10/9/22
+- Kelleher, et al., "Fundamentals of Machine Learning for Predictive Data Analysis," 2015 (phys copy)
