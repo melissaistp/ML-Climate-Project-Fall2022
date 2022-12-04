@@ -15,6 +15,7 @@
 - [using] CA EVs, plug-ins, hybrids (2017-2021): https://www.cncda.org/wp-content/uploads/Cal-Covering-4Q-21.pdf
 - [using] CA cumulative EV sales (2010-2022): https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales
 - [using] CA registered EVs, breakdown (2016-2021): https://afdc.energy.gov/vehicle-registration
+- [using] CA registered vehicles by fuel type: https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/light-duty-vehicle 
 
 **ML**:
 - Class reading, ML for sustainable energy systems: https://www.proditus.com/teaching/readings2022/07_Donti1.pdf
