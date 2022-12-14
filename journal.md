@@ -49,9 +49,14 @@ To do:
 - 1) electricity to emissions relation, 2) calculate expected electrical vehicle electricity consumption, EV_elec, 3) apply electricity/emissions relation to EV_elec to get expected emissions EV_emis, 4) compare this value to current combustion engine emissions CE_emis
 
 **11/16/22**:
-- Data cleaning, analyses
+- Data cleaning
+- Hourly_demand_to_emissions, monthly_demand_to_emissions, etc. : exploratory notebooks. Analysis.ipynb contains all "final" data analysis relevant to final project & paper
 - Updated abstract
 - Added dataset sources to reference-list.MD: cumulative EV_sales, continuing to download ca_co2_emissions_daily datasets
 - New analysis.ipynb and data_cleanup.ipnyb (compiled in all_data.csv)
 
-**12/1/22**:
+**12/5/22**:
+- Recap video submitted for class
+
+**12/15/22**:
+- Final commit

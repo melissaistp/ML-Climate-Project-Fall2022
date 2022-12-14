@@ -1,3 +1,5 @@
+List to keep track of sites & resources used throughout the project. For formal bibliography, see final_paper.pdf
+
 **Data**:
 - [using] CA electricity consumption data, 1990-2020: http://www.ecdms.energy.ca.gov/elecbycounty.aspx
 - [using] EV Database, avg EV electricity consumption: https://ev-database.org/cheatsheet/energy-consumption-electric-car
@@ -16,8 +18,11 @@
 - [using] CA cumulative EV sales (2010-2022): https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/new-zev-sales
 - [using] CA registered EVs, breakdown (2016-2021): https://afdc.energy.gov/vehicle-registration
 - [using] CA registered vehicles by fuel type: https://www.energy.ca.gov/data-reports/energy-almanac/zero-emission-vehicle-and-infrastructure-statistics/light-duty-vehicle 
+- [using] California weather data: https://www.ncei.noaa.gov/access/monitoring/climate-at-a-glance/county/mapping/4/pcp/201902/1/value 
+- [using] US monthly EV sales: https://www.anl.gov/esia/light-duty-electric-drive-vehicles-monthly-sales-updates 
 
 **ML**:
+- Emissions estimate with ML: https://www.youtube.com/watch?v=t8KQ4ffJdvg
 - Class reading, ML for sustainable energy systems: https://www.proditus.com/teaching/readings2022/07_Donti1.pdf
 - Kelleher, et al., "Fundamentals of Machine Learning for Predictive Data Analysis," 2015 (phys copy)
 - Real-Time Energy Disaggregation of a Distribution Feeder’s Demand Using Online Learning: https://arxiv.org/pdf/1701.04389.pdf
