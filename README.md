@@ -1,21 +1,19 @@
 # ML-Climate-Project-Template-Fall2022
 
-Throughout the semester each student will work on an individual project, which you will summarize in a final technical paper. You will showcase and document your work through a private git repository following this template.
+- The file `abstract.md` contains the original project proposal and the formal abstract contained in the final paper document.
+- The file `journal.md` is a diary of progress over the course of the semester.
+- The `doc/` directory contains the LaTeX document and PDF file for the final paper.
+- The `src/` directory contains the data analyzed through this project as well as Notebooks documenting these analyses.
+- The `etc/` directory contains additional documentation, a single file containing resources and notes for myself throughout the project, less formal than the journal.
 
-The organization of this repository is as follows:
-
-```
-abstract.md
-journal.md
-doc/
-src/
-etc/
-```
-- The file `abstract.md` simply contains an abstract of the project. At first, it is an aspirational abstract, one that describes the research program you want to complete. You will refine it through the semester.
-- The file `journal.md` is a diary of your progress. It contains dated entries with a description of what you are doing, what you found, what you are thinking, and so on. It is mainly a resource for you, but I will glance at it too (at the end of the semester). Please update and commit it at least once per week.
-- The `doc/` directory contains the LaTeX document that you are writing. We will provide a template for your final paper.
-- The `src/` directory contains the code you are writing. The data you are analyzing should live here too.
-- The `etc/` directory contains anything else — materials, notes, photos of whiteboards, and so on — that you want to keep track of.
-There should be nothing else in the top level directory of your repository.
-
-Commit often, at least every week. You are graded on the quality of the project and the path that you took to get there.
+**Data sources**
+See final paper for formal references.
+1) California Independent System Operator: ca_daily_demand, ca_daily_emissions, ca_daily_renewables, ca_daily_supply folders; ca_monthly_emissions.csv\
+2) National Centers for Environmental Information: all_states_monthly_max_temp.csv, all_states_monthly_min_temp.csv, all_sates_monthly_precip.csv\
+3) US Energy Information Administration: ca_hourly_demand.csv, ca_monthly_supply.csv\
+4) Argonne: usa_monthly_car_sales.csv\
+Cleaned data:
+- minute_emissions_demand_resources.csv: derived from 1
+- monthly_demand.csv: derived from 3
+- monthly_precip.csv, monthly_tmin.csv, monthly_tmax.csv: derived from 2
+- monthly_vehicles: derived from yearly_vehicles_reformat.csv and 4)

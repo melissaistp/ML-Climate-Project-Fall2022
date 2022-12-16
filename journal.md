@@ -34,29 +34,26 @@ To do:
 - Created account and API key for Energy Information Association's (EIA) API: https://www.eia.gov/opendata/browser/electricity
 - Tried fetching "Supply and Disposition of Electricity" from "State Specific Data." Frequency: annual, data type: all (net generataion from commercial sectrion, net generation from independent power producers, combined heat and power...) in main.ipynb, but all data is coming back empty?
 
-To do:
-- Continue testing this API and fetching/cleaning data
-
 **10/16/22**
 - Added readings (see 2018 disaggregation paper)
 - All data from last week's site seemed to be empty, so looked into new sources; downloaded new, more robust dataset (ca_hourly_demand.csv) manually from EIA: https://www.eia.gov/beta/states/states/ca/data/dashboard/electricity
 - Added CO2 emissions (ca_co2_emissions_monthly.csv), started manually adding CA daily CO2 emissions (ca_co2_emissions_daily folder)
-- Use ML to disaggregate electricty used for EV charging from other demands?
+- Disaggregate electricty used for EV charging from other demands?
 
 **10/20/22**:
 - Ran into roadblocks, unclear direction for current project concept
-- New abstract concept: assuming no change to energy sourcing, if we change all cars in California to EVs, what is the expected increase in electricity demand needed and resulting emissions increase for these cars? Is it greater or less than current emissions from gas cars?
-- 1) electricity to emissions relation, 2) calculate expected electrical vehicle electricity consumption, EV_elec, 3) apply electricity/emissions relation to EV_elec to get expected emissions EV_emis, 4) compare this value to current combustion engine emissions CE_emis
+- New abstract concept: assuming no change to energy sourcing, as CA hits different EV milestones, what is the expected increase in electricity demand needed and resulting emissions increase for these cars? Is it greater or less than current emissions from gas cars?
 
 **11/16/22**:
-- Data cleaning
 - Hourly_demand_to_emissions, monthly_demand_to_emissions, etc. : exploratory notebooks. Analysis.ipynb contains all "final" data analysis relevant to final project & paper
 - Updated abstract
 - Added dataset sources to reference-list.MD: cumulative EV_sales, continuing to download ca_co2_emissions_daily datasets
 - New analysis.ipynb and data_cleanup.ipnyb (compiled in all_data.csv)
 
 **12/5/22**:
+- Clean all files and rename
 - Recap video submitted for class
 
 **12/15/22**:
+- Final paper
 - Final commit
